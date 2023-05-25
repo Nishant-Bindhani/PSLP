@@ -1,5 +1,5 @@
 clear; clc
-disp("Nipun Baryah\\ Class:IT-B \\ Roll Number:74")
+disp("Nishant\\ Class:IT-B \\ Roll Number:102")
 x=[0,0,0,0,0]
 pp=[0,0,0,0,0]
 for i=1:1:5
