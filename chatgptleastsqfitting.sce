@@ -1,5 +1,5 @@
 clear; clc
-disp("Nishant Bindhani\\ Class:IT-B \\ Roll Number:102")
+disp("Nishant Bindhani//Class:- IT-B//Roll No.:-102")
 n=input("Enter total no of points : ")
 for i=1:1:n
 	x(i)=input("Enter value of x : ")
